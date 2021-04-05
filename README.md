@@ -1,15 +1,9 @@
-### Hi there 👋
-
-<!--
-**OozyGrub/OozyGrub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Krit Kruaykitanon 👋
 
 - 🔭 I’m currently working on Chulalongkorn Memorial Hospital MVLab Tracking System
 - 🌱 I’m currently learning NLP
 - 📫 How to reach me: https://krit.life
 - ⚡ Fun fact: Full-time Developer, Part-time Bird Watcher
--->
 
 <br>
 
@@ -17,4 +11,4 @@ Here are some ideas to get you started:
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/OozyGrub/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OozyGrub&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/OozyGrub/github-readme-stats)

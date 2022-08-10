@@ -1,9 +1,8 @@
 ### Krit Kruaykitanon 👋
 
-- 🔭 I’m currently working on Chulalongkorn Memorial Hospital MVLab Tracking System
-- 🌱 I’m currently learning NLP
-- 📫 How to reach me: https://krit.life
-- ⚡ Fun fact: Full-time Developer, Part-time Bird Watcher
+- 🔭 I’m currently working at [T-POP](https://t-pop.com)
+- 📫 How to reach me: [KRIT.LIFE](https://krit.life)
+- ⚡ Fun fact: Full-time Developer, [Part-time Bird Watcher](https://ebird.org/profile/MjAyMzM1NA/TH)
 
 <br>
 
